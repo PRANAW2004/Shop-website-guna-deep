@@ -1,0 +1,103 @@
+body{
+background-image:url("https://images.unsplash.com/photo-1595757816291-ab4c1cba0fc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80");
+}
+.img-responsive{
+margin-top:50px;
+height : 100px;
+width : 100px;
+}
+#heading{
+color: white;
+text-align:center;
+}
+#heading1{
+color:white;
+text-align:center;
+font-size: 25px;
+
+}
+.contact_icons{
+display:flex;
+justify-content:center;
+padding-top:10px;
+padding-bottom:20px;
+}
+i{
+padding-right:20px;
+}
+.info{
+margin-left: auto;
+margin-right: auto;
+width:450px;
+height:750px;
+background-color:white;
+border-radius:30px;
+
+}
+
+
+
+#landline{
+   margin-left: 13rem;
+   margin-top: -1.2rem;
+
+}
+.landline{
+   height: 80px;
+}
+.fa-home{
+   margin-left: 5rem;
+   margin-top: 1.5rem;
+}
+#landline-no{
+   margin-left: 13rem;
+   margin-top: -4rem;
+}
+/* .fa-envelope{
+   margin-left: 5rem;
+   margin-top: 1.5rem;
+} */
+#mailid1{
+   margin-left: 13rem;
+   margin-top: -4rem;
+}
+#emailheading{
+   margin-left: 13rem;
+   margin-top: -1.2rem;
+
+}
+
+#mail1,#mail2,#wticon,#location_icon,#mobile_icon{
+   margin-left: 5rem;
+   margin-top: 1.5rem;
+}
+#mailid2{
+   margin-left: 13rem;
+   margin-top: -4rem;
+}
+#emailheading2{
+   margin-left: 13rem;
+   margin-top: -1.2rem;
+
+}
+#group,#location_heading,#mobile{
+   margin-left: 13rem;
+   margin-top: -4rem;
+}
+#whatsappgroup,#google_maps,#mobile_para{
+   margin-left: 13rem;
+   margin-top: -1.2rem;
+
+}
+.phone,.landline,.email1,.email2,.whatsapp,.location{
+   padding-top:30px ;
+}
+hr{
+   height: 1rem;
+   color: black;
+}
+
+
+
+
+
